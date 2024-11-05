@@ -1,4 +1,3 @@
-  
 import { NavPriv } from "./NavPriv";
 
 export const HeaderPriv = () => {
